@@ -29,6 +29,12 @@ and then compile it with `tsc` and serve up in either browser or terminal
 
 ## Release Notes
 
+### 0.0.5
+added repository and icon
+
+### 0.0.4
+minor corrections
+
 ### 0.0.3
 
 Adding union type, intersection type and decorator
