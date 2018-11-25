@@ -1,0 +1,21 @@
+{
+    "name": "ts-snippets",
+    "displayName": "ts-snippets",
+    "description": "this will contain snippets for TypeScript",
+    "version": "0.0.3",
+    "publisher": "chris-noring",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets", "Programming Languages"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
